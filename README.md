@@ -30,16 +30,12 @@ AWS, Google Cloud Platform, Docker, Kubernetes, Git/GitHub
 ### Tools
 JIRA, Agile/Scrum, Figma
 
-## 📌 Featured Projects
+## 🌟 Featured Projects
 
-### Graph-RAG AI System
-Built an AI system for Fantasy Premier League analytics using knowledge graphs, Neo4j, Python, embeddings, and LLMs. The system allows users to ask natural language questions and receive context-aware analytical responses.
+- [Trip Genie](https://github.com/HazemMansour1/Trip-Genie) - A comprehensive travel and tourism platform that enables users to book flights, hotels, transportation, activities, and explore historical places while also providing a marketplace for travel-related products.
 
-### Bachelor Thesis — Malicious Use of AI
-Researched AI-driven phishing, adversarial machine learning, and model vulnerabilities. Developed a simulated AI-powered recruitment phishing platform and implemented a backdoor data poisoning attack on an image classification model.
+- [Graph-RAG AI System](https://github.com/Radwa-Ibrahim0/ACL-MS3) - An AI system for Fantasy Premier League analytics using knowledge graphs, Neo4j, Python, embeddings, and LLMs.
 
-### Trip Genie Travel Platform
-Developed a full-stack trip management and booking platform using the MERN stack, with secure user authentication and third-party travel API integrations.
 
 ## 📫 Connect With Me
 
