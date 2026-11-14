@@ -18,8 +18,8 @@ GenAI, LLM Applications, RAG, Agentic AI, Embeddings, Prompt Engineering, Data P
 ### Programming Languages
 Python, Java, C#, JavaScript
 
-### Frameworks & Libraries
-PyTorch, TensorFlow, Hugging Face, ASP.NET Core, Spring Boot, MERN Stack
+### Frameworks
+ASP.NET Core, Spring Boot, MERN Stack
 
 ### Databases
 PostgreSQL, SQL Server, MongoDB, NoSQL Databases, Neo4j
