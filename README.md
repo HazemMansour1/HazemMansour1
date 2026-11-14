@@ -6,7 +6,7 @@ Fresh Software Engineering graduate from the German University in Cairo, focused
 
 - 🎓 Fresh Software Engineering graduate from the German University in Cairo
 - 🤖 Interested in AI Engineering, GenAI, LLM Applications, and RAG
-- 🧠 Experienced with knowledge graphs, embeddings, and AI security concepts
+- 🧠 Experienced with RAG, Agents and AI Engineering concepts
 - 🔧 Skilled in building Web APIs, backend services, and full-stack applications
 - ☁️ Currently learning AWS AI tools and cloud-based AI deployment
 
