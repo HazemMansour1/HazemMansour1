@@ -13,7 +13,7 @@ Fresh Software Engineering graduate from the German University in Cairo, focused
 ## 🛠️ Tech Stack
 
 ### AI & Machine Learning
-GenAI, LLM Applications, RAG, Embeddings, Prompt Engineering, Data Preprocessing
+GenAI, LLM Applications, RAG, Agentic AI, Embeddings, Prompt Engineering, Data Preprocessing
 
 ### Programming Languages
 Python, Java, C#, JavaScript
